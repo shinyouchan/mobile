@@ -69,6 +69,5 @@ class _MyAppState extends State<MyApp> {
       routeInformationParser: _router.routeInformationParser,
       routerDelegate: _router.routerDelegate,
     );
-    
   }
 }
